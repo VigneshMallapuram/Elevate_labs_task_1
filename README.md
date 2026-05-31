@@ -8,9 +8,8 @@ To perform a TCP SYN scan on the local network using Nmap and identify active ho
 
 ## Tools Used
 
-* Nmap 7.99
+* Nmap
 * Windows Command Prompt
-* Wireshark (optional)
 
 ## Finding the Local IP Range
 
